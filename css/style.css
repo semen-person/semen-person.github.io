@@ -1,0 +1,37 @@
+.main-cont {
+	background: #e3e3e3;
+	margin-top: 25px;
+	padding: 25px;
+	padding-bottom: 50px;
+}
+
+.desc {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.poster {
+	text-align: center;
+	background: black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.redtext {
+	color: red;
+}
+
+.discord {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.video {
+	text-align: center;
+}
+
+.footertext {
+	text-align: center;
+	margin: 25px;
+}
