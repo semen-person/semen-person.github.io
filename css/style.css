@@ -5,6 +5,10 @@
 	padding-bottom: 50px;
 }
 
+* {
+	max-width: 100%;
+}
+
 .desc {
 	padding-top: 25px;
 	padding-bottom: 25px;
